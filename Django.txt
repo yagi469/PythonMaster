@@ -1,0 +1,17 @@
+> python -V
+Python 3.8.3
+
+> pip install django
+Collecting django
+  Downloading Django-3.0.6-py3-none-any.whl (7.5 MB)
+  …中略…
+  Installing collected packages: sqlparse, asgiref, django
+  Successfully installed asgiref-3.2.7 djangp-3.0.6 sqlparse-0.3.1
+  
+> django-admin version
+3.0.6
+
+> cd c:\data
+> django-admin startproject quick_django
+
+> cd quick_django
